@@ -1,6 +1,6 @@
 cask "redom" do
-  version "1.1.0"
-  sha256 "eca9e5868453a495727dc3f2415e3837e47adef721591d7a107a0157e8dc0e69"
+  version "1.1.1"
+  sha256 "f05e909f316d88d9c0430a714a21d47ef0f0157c671e8dae214e877aaf5f6821"
 
   url "https://github.com/yogeshvas/redom-ai-agent/releases/download/v#{version}/Redom.dmg"
   name "Redom"
